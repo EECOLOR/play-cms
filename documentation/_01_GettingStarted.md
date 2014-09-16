@@ -58,7 +58,7 @@ This gives you an API that consists of three parts:
  - *metadata* - Provides the metadata you specified
 
 ## The private API
-For detailed information see [02 Private Api](_02_Private_Api.md)
+For detailed information see [02  Private Api](_02__Private_Api.md)
 
 This part of the API allows you to change content, that's the 
 reason this requires authentication. Note that we have specified 
@@ -84,7 +84,7 @@ obj(
 )          
 ```
 ## The public API
-For detailed information see [03 Public Api](_03_Public_Api.md)
+For detailed information see [03  Public Api](_03__Public_Api.md)
 
 This part of the API allows you to search, count and retrieve content, 
 it does not require authentication.
@@ -101,7 +101,7 @@ body is arr(
 )
 ```
 ## The metada API
-For detailed information see [04 MetadataApi](_04_MetadataApi.md)
+For detailed information see [04  MetadataApi](_04__MetadataApi.md)
 
 This part of the API allows you to retrieve the metadata of documents,
 because it can contain sensitive information it requires 

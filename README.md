@@ -21,7 +21,7 @@ These are not necessarily in the correct order.
 - Create a ui module that can work with the metadata that is available (using scala-js)
 - Support the concept of more complex property metadata (handling file upload, references to other documents)
 - Add support for `static` information, also known as enumerations (for menu's etc.)
-- 
+
 
 ## Documentation
 
